@@ -1,4 +1,4 @@
-# AI Debate System
+# LLM Debate Arena
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.0-lightgrey?logo=flask)
@@ -6,7 +6,7 @@
 ![Tests](https://img.shields.io/badge/Tests-233%20passing-brightgreen)
 ![Version](https://img.shields.io/badge/Version-2.1.0-informational)
 
-**Group:** NajAmjad | **Course:** AI Orchestration
+**Authors:** Naji Kayal · Amjad Abed - built for an AI-agent orchestration course
 
 > A production-quality multi-agent orchestration system with a **provider-agnostic Gatekeeper**.
 > Three LLM-powered agents conduct a fully scored, structured debate on any topic -
